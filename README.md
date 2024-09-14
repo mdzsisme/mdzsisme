@@ -20,4 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzsisme&" alt="mdzsisme" /></p>
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=sda8qn2r3um9ot9o3ecxtzbue&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=sda8qn2r3um9ot9o3ecxtzbue&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
+![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=sda8qn2r3um9ot9o3ecxtzbue&redirect=true)
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=sda8qn2r3um9ot9o3ecxtzbue&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=sda8qn2r3um9ot9o3ecxtzbue&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)
+
