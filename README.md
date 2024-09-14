@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzsisme&show_icons=true&locale=en" alt="mdzsisme" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzsisme&" alt="mdzsisme" /></p>
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=sda8qn2r3um9ot9o3ecxtzbue&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=sda8qn2r3um9ot9o3ecxtzbue&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
